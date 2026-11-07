@@ -37,3 +37,5 @@ PRODUCT_NAME := twrp_rhodep
 PRODUCT_BRAND := motorola
 PRODUCT_MODEL := moto g(82) 5g
 PRODUCT_MANUFACTURER := motorola
+
+PRODUCT_ENABLE_UFFD_GC := false
